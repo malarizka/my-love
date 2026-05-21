@@ -226,7 +226,7 @@ body {
 }
 
 .timer-display {
-    font-size: 44px;
+    font-size: 16px;
     font-weight: bold;
     background: #f3d9ff;
     display: inline-block;
